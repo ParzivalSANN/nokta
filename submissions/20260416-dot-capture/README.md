@@ -4,10 +4,10 @@
 Bu projede Track A seçilmiş ve klasik yazılı (text-dump) formülünün ötesine geçilmiştir. Kullanıcıdan uzun bir paragraf girmesini beklemek yerine uygulamaya "Agentic" (otonom ajan) bir yapı kazandırılmış, kullanıcının sadece anahtar kelimeleri attığı ve bu kelimelerden bir **Canlı Sinir Ağı (Obsidian benzeri Node Graph)** oluşturulan interaktif bir deneyim kurgulanmıştır.
 
 ## Expo QR Kodu
-> [Lütfen uygulamanızı Expo'da publish edip QR Linkini Buraya Yapıştırın]
+> [Lütfen Expo QR kodunuzun exp:// bağlantısını buraya yapıştırın veya karekodu buraya ekleyin]
 
 ## 60 Saniye Demo Video
-> [Lütfen ekran kaydı videonuzun YouTube veya Drive linkini buraya yapıştırın]
+> https://youtu.be/28ec0Ki_YeU
 
 ## Decision Log (Karar Günlüğü)
 - **Tasarım Dili (Ethereal Amethyst):** Standart karanlık mod UI kalıpları yıkıldı. Bunun yerine derin siyah üzerine parlayan Mor ve Camgöbeği tonlarında (Neon/Glassmorphism) fütüristik bir "Zihin Sarayı" estetiğine geçildi.
